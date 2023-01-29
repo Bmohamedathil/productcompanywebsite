@@ -358,7 +358,7 @@ CONTACTUS.HTML
 ![c1](https://user-images.githubusercontent.com/119560261/215316347-b3ae1641-1629-4536-b9ef-63e63f508f0c.png)
 ![c2](https://user-images.githubusercontent.com/119560261/215316355-29a75826-1ffe-4f21-bd2d-a8d71944bf23.png)
 
-###People:
+### People:
 ![people](https://user-images.githubusercontent.com/119560261/215316366-3ce5620a-de4a-4219-9fab-14c0f06e2aa3.png)
 
 
